@@ -1,59 +1,150 @@
-<p align="center">
-  <img src="https://github.com/Vexel-Innovations/.github/raw/main/assets/vexel-banner.png" alt="Vexel Innovations" width="800"/>
-</p>
+<div align="center">
 
-<h1 align="center">🏢 Vexel Innovations</h1>
-<h3 align="center">Engineering the Future of Autonomous Intelligence & Urban Defense</h3>
+# `> VEXEL INNOVATIONS_`
 
-<p align="center">
-  <a href="https://github.com/Vexel-Innovations/Sentinel-X"><img src="https://img.shields.io/badge/Flagship-Sentinel--X-blue?style=for-the-badge&logo=satellite&logoColor=white" alt="Sentinel-X"/></a>
-  <a href="https://github.com/Vexel-Innovations"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status"/></a>
-  <a href="https://github.com/Vexel-Innovations/Sentinel-X/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-orange?style=for-the-badge" alt="License"/></a>
-</p>
+### ⚡ We don't predict the future. We build it. ⚡
 
----
+[![GitHub Org](https://img.shields.io/badge/ORG-Vexel_Innovations-7B2D8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vexel-Innovations)
+[![Sentinel-X](https://img.shields.io/badge/🛰️_FLAGSHIP-Sentinel--X-00D4FF?style=for-the-badge)](https://github.com/Vexel-Innovations/Sentinel-X)
+[![License](https://img.shields.io/badge/OPEN_SOURCE-Apache_2.0-FF6B35?style=for-the-badge)](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF88?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/Vexel-Innovations)
 
-## 🛡️ Who We Are
-**Vexel Innovations** is a high-tech defense and AI collective dedicated to building **industrial-grade multimodal intelligence systems**. We specialize in C4ISR interoperability, drone swarm orchestration, and proactive threat detection for national security and urban safety.
-
-Our mission is to bridge the gap between **cutting-edge AI research** and **real-world tactical operations**, delivering autonomous, self-evolving platforms that protect lives and infrastructure.
+</div>
 
 ---
 
-## 🚀 Flagship Projects
+<div align="center">
 
-### 🛰️ [Sentinel-X](https://github.com/Vexel-Innovations/Sentinel-X)
-> **The Autonomous Multimodal Intelligence Platform**
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
-Sentinel-X is our crown jewel — a production-grade, open-source intelligence system featuring:
-
-| Capability | Technology |
-| :--- | :--- |
-| 🌐 3D Digital Twin | CesiumJS with real-time terrain rendering |
-| 🚁 Drone Swarm C2 | Autonomous formation control & target locking |
-| 🎯 Precision Vision | SAHI small-object detection & Super-Resolution |
-| 🔊 Acoustic Intel | GPS triangulation of kinetic events |
-| 📡 C4ISR Interop | MIL-STD-2525D symbology & ATAK/CoT export |
-| 👥 Crowd Safety | Density mapping & panic flow detection |
-| 📡 SIGINT | RF frequency spike analysis |
+</div>
 
 ---
 
-## 🔬 Core Technologies
-`Multimodal AI` • `Drone Swarm C2` • `CesiumJS 3D` • `Acoustic Triangulation` • `SIGINT` • `ATAK Interop` • `FastAPI` • `YOLOv8` • `Computer Vision` • `GeoAI` • `Federated Learning`
+## 🧬 `ABOUT`
+
+**Vexel Innovations** is a next-generation AI lab building **autonomous intelligence systems** that see, think, and act — in real time.
+
+We operate at the intersection of **Artificial Intelligence**, **Defense Technology**, and **Geospatial Intelligence**, delivering platforms that don't just monitor the world — they understand it.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   VISION:   A world where threats are neutralized       │
+│             before they materialize.                    │
+│                                                         │
+│   MISSION:  Build self-evolving, multimodal AI          │
+│             systems for proactive global defense.       │
+│                                                         │
+│   VALUES:   Open Source · Data Sovereignty · Autonomy   │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🤝 Join the Mission
-We welcome contributions from **senior AI researchers**, **GIS specialists**, and **defense-tech engineers**. Whether you're building new detection models, improving swarm logic, or expanding our satellite analysis — there's a place for you here.
+## 🚀 `WHAT WE BUILD`
 
-📖 **[Contributing Guidelines](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CONTRIBUTING.md)** · 🛡️ **[Security Policy](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/SECURITY.md)** · 📜 **[Code of Conduct](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CODE_OF_CONDUCT.md)**
+<table>
+<tr>
+<td width="50%">
+
+### 🛰️ Sentinel-X
+**Autonomous Multimodal Intelligence Platform**
+
+The crown jewel. A full-stack C4ISR system with 3D digital twins, drone swarm orchestration, acoustic triangulation, and AI-powered threat detection — all running autonomously.
+
+**`Python` `FastAPI` `CesiumJS` `YOLOv8` `MongoDB`**
+
+[**→ Explore Sentinel-X**](https://github.com/Vexel-Innovations/Sentinel-X)
+
+</td>
+<td width="50%">
+
+### 🔮 What's Next
+**The Roadmap**
+
+- 🧠 **Neuro-Symbolic Reasoning** — AI that explains *why* it flagged a threat
+- 🌍 **Global Mesh Networks** — Federated intelligence across borders
+- 🛸 **Autonomous Swarm v2** — Self-healing drone formations
+- 🔐 **Zero-Trust Architecture** — Quantum-resistant security layer
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>Building a safer, proactive future — one intelligent system at a time.</b>
-</p>
-<p align="center">
-  © 2026 Vexel Innovations. All rights reserved.
-</p>
+## ⚙️ `CORE CAPABILITIES`
+
+```
+ ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
+ │  🎯 VISION   │   │  🔊 ACOUSTIC │   │  📡 SIGINT   │   │  🚁 SWARM    │
+ │              │   │              │   │              │   │              │
+ │ SAHI Tiling  │   │ Triangulate  │   │ RF Spectrum  │   │ Formation    │
+ │ Super-Res 2x │   │ GPS Pinpoint │   │ Analysis     │   │ Control      │
+ │ Person Re-ID │   │ Auto-Respond │   │ EW Detection │   │ Target Lock  │
+ └──────┬───────┘   └──────┬───────┘   └──────┬───────┘   └──────┬───────┘
+        │                  │                  │                  │
+        └──────────────────┴──────────────────┴──────────────────┘
+                                    │
+                          ┌─────────┴─────────┐
+                          │  🧠 FUSION ENGINE  │
+                          │                    │
+                          │  Autonomous Intel  │
+                          │  Decision Making   │
+                          └────────────────────┘
+```
+
+---
+
+## 🏗️ `TECH STACK`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=flat-square&logo=cesium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=yolo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 `JOIN THE MISSION`
+
+We're not hiring employees. **We're recruiting visionaries.**
+
+Whether you're an AI researcher pushing the boundaries of computer vision, a GIS engineer mapping the unseen, or a systems architect who thinks in distributed networks — **there's a seat at our table.**
+
+<div align="center">
+
+| 📖 [Contributing](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CONTRIBUTING.md) | 🛡️ [Security](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/SECURITY.md) | 📜 [Code of Conduct](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CODE_OF_CONDUCT.md) |
+| :---: | :---: | :---: |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+██╗   ██╗███████╗██╗  ██╗███████╗██╗
+██║   ██║██╔════╝╚██╗██╔╝██╔════╝██║
+██║   ██║█████╗   ╚███╔╝ █████╗  ██║
+╚██╗ ██╔╝██╔══╝   ██╔██╗ ██╔══╝  ██║
+ ╚████╔╝ ███████╗██╔╝ ██╗███████╗███████╗
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
+
+**Building what others think is impossible.**
+
+© 2026 Vexel Innovations · All Systems Operational
+
+</div>
