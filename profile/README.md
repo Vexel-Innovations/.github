@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/Vexel-Innovations.png" alt="Vexel Innovations" width="200" style="border-radius: 20px;"/>
+
 # `> VEXEL INNOVATIONS_`
 
 ### ⚡ We don't predict the future. We build it. ⚡
