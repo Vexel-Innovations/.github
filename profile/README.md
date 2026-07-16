@@ -118,7 +118,7 @@ Cutting-edge computer vision pipelines for real-time object and threat detection
 
 ---
 
-## 🧠 `AI & RESEARCH DIVISION`
+## 🧠 `AI & RESEARCH DIVISION` 
 
 <table>
 <tr>
