@@ -388,6 +388,29 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## 💻 `LIVE SYSTEM ARCHITECTURE TERMINAL`
+
+```shell
+$ vexel-ctl status --all-nodes --verbose
+
+[VEXEL-CORE-NODE-01]  STATUS: ONLINE   IP: 10.0.1.10   LOAD: 12%  UPTIME: 99.98%
+├─ 📡 RouterOS Gateway API       [ACTIVE]  --> 1,420 Active Hotspot Sessions
+├─ 🛡️ PTS IMEI Defense Registry  [SYNCED]  --> YARA Engine v4.3 Active
+├─ 🌾 Kido Farms Soil Telemetry   [ONLINE]  --> 45 Sensors Broadcasting
+├─ 🌽 CornVision YOLOv8 Pipeline  [INSPECT] --> 120 FPS Real-time Inference
+└─ 🍕 Smooth POS ESC/POS Bridge  [READY]   --> Thermal Printing Queue Clean
+```
+
+---
+
+## 🔬 `RESEARCH & TECHNICAL WHITEPAPERS`
+
+- 📄 **[VEXEL-WP-2026-01]** *Decentralized IMEI Tracking & Anti-Theft Defense via Distributed Cryptographic Mesh Registries*
+- 📄 **[VEXEL-WP-2026-02]** *Sub-50ms Computer Vision Crop Pathology Detection on Low-Power Edge NPUs*
+- 📄 **[VEXEL-WP-2026-03]** *Zero-Trust Hotspot Authentication & Automated Vouchers for Multi-Vendor ISP Routers*
+
+---
+
 ## 🌍 `REGIONAL IMPACT & DEPLOYMENT ECOSYSTEM`
 
 ```
