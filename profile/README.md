@@ -301,6 +301,15 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## 📊 `ORGANIZATION ANALYTICS`
+
+<p align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Vexel-Innovations&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Vexel-Innovations&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
 ## 🤝 `WORK WITH VEXEL INNOVATIONS`
 
 We collaborate with forward-thinking organizations, founders, and engineers to build extraordinary products.
