@@ -1,15 +1,20 @@
 <div align="center">
 
-<img src="https://github.com/Vexel-Innovations.png" alt="Vexel Innovations" width="200" style="border-radius: 20px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:00F5FF,100:6E40C9&height=200&section=header&text=VEXEL%20INNOVATIONS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
-# `> VEXEL INNOVATIONS_`
+### ⚡ WE DON'T PREDICT THE FUTURE. WE BUILD IT. ⚡
 
-### ⚡ We don't predict the future. We build it. ⚡
+*The digital nervous system of modern progress through intelligent design and engineering.*
 
-[![GitHub Org](https://img.shields.io/badge/ORG-Vexel_Innovations-7B2D8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vexel-Innovations)
-[![Sentinel-X](https://img.shields.io/badge/🛰️_FLAGSHIP-Sentinel--X-00D4FF?style=for-the-badge)](https://github.com/Vexel-Innovations/Sentinel-X)
-[![License](https://img.shields.io/badge/OPEN_SOURCE-Apache_2.0-FF6B35?style=for-the-badge)](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF88?style=for-the-badge&logo=statuspage&logoColor=white)](https://github.com/Vexel-Innovations)
+<p align="center">
+  <a href="https://github.com/Vexel-Innovations">
+    <img src="https://img.shields.io/badge/ORG-Vexel__Innovations-7B2D8E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://vexel-innovations.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-vexel--innovations.vercel.app-00C853?style=for-the-badge&logo=vercel"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF88?style=for-the-badge&logo=statuspage&logoColor=white"/>
+</p>
 
 </div>
 
@@ -23,94 +28,94 @@
 
 ---
 
-## 🧬 `ABOUT`
+## 🧬 `ABOUT VEXEL INNOVATIONS`
 
-**Vexel Innovations** is a next-generation AI lab building **autonomous intelligence systems** that see, think, and act — in real time.
+**Vexel Innovations** is an executive software and AI engineering laboratory building **autonomous intelligence systems** that see, think, and act in real time.
 
-We operate at the intersection of **Artificial Intelligence**, **Defense Technology**, **Agri-Tech**, and **Geospatial Intelligence**, delivering platforms that don't just monitor the world — they understand it.
+We operate at the intersection of **Artificial Intelligence**, **Computer Vision**, **ISP Infrastructure Automation**, **Agri-Tech**, and **Decentralized Asset Registries**, delivering platforms that don't just monitor operations — they transform them.
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   VISION:   A world where threats are neutralized       │
-│             before they materialize.                    │
-│                                                         │
-│   MISSION:  Build self-evolving, multimodal AI          │
-│             systems for proactive global defense.       │
-│                                                         │
-│   VALUES:   Open Source · Data Sovereignty · Autonomy   │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   VISION:   A world powered by proactive, self-healing, and intelligent  │
+│             autonomous systems.                                          │
+│                                                                          │
+│   MISSION:  Build self-evolving AI, robust hardware connectors, and      │
+│             high-impact software platforms for global enterprise.        │
+│                                                                          │
+│   VALUES:   Engineering Excellence · Data Sovereignty · Rapid Execution  │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 `OUR PRODUCT ECOSYSTEM`
+## 🚀 `FLAGSHIP PRODUCT ECOSYSTEM`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛰️ [Sentinel-X](https://github.com/Vexel-Innovations/Sentinel-X)
-**Autonomous Multimodal Intelligence Platform**
+### 📡 [WireSpot](https://github.com/Uszkido/wirespot)
+**Multi-Brand Hotspot Operations Platform**
 
-Full-stack C4ISR system with 3D digital twins, drone swarm orchestration, acoustic triangulation, and AI-powered threat detection.
+Flutter application & web dashboard for ISPs and network operators. Features direct MikroTik RouterOS API operations, WireGuard remote tunnels, Bluetooth thermal printing, and multi-vendor router management.
 
-**`Python` `FastAPI` `CesiumJS` `YOLOv8`**
+**`Flutter` `Dart` `RouterOS API` `WireGuard` `SQLite`**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔮 [Vexel-One](https://github.com/Uszkido/vexel-one)
-**The Unified Vexel Platform**
+### 🛡️ [PTS Project](https://github.com/Uszkido/pts-project)
+**Phone Tracking System & IMEI Registry**
 
-Our centralized command & control interface — the single pane of glass for all Vexel products and services.
+Decentralized national registry for verifiable device ownership, stolen phone tracking, and IMEI-bound digital certificates of ownership with immutable chain of custody audit logs.
 
-**`Full-Stack` `Platform`**
+**`Node.js` `Express` `PostgreSQL` `Prisma` `Capacitor`**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 [Kido Farms](https://github.com/Uszkido/kidofarms-frontend)
 **AI-Powered Agri-Tech & E-Commerce**
 
-A sovereign agricultural platform connecting farmers, vendors, and affiliates with premium UI/UX and real-time supply chain intelligence.
+Sovereign agricultural platform connecting farmers, vendors, and consumer buyers with real-time supply chain intelligence, order tracking, and regional analytics.
 
-**`React` `Next.js` `TypeScript`**
+**`React` `Next.js` `TypeScript` `TailwindCSS`**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ [Campus Safety System](https://github.com/Uszkido/campus-safety-system)
-**Smart Campus Security Network**
+### 🌽 [CornVision™](https://github.com/Uszkido/CornVision)
+**Industrial AI & Quality Assurance**
 
-An integrated safety monitoring system for educational institutions — real-time alerts, incident tracking, and emergency response.
+Enterprise computer vision platform for automated crop inspection, defect detection (*Normal*, *Burnt*, *Discolored*, *Foreign Material*), and real-time conveyor quality control.
 
-**`Security` `IoT` `Real-Time`**
+**`Python` `YOLOv8` `OpenCV` `Flask` `Docker`**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📡 [PTS Project](https://github.com/Uszkido/pts-project)
-**Property Tracking System**
+### 🍕 [Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)
+**AI Production Line Monitoring**
 
-Forensic-grade asset tracking with Bluetooth mesh networking, offline synchronization, and distributed ledger verification.
+Real-time computer vision system for automated pizza detection, volume counting, and assembly line quality verification.
 
-**`TypeScript` `Kotlin` `Mesh`**
+**`Python` `OpenCV` `Deep Learning` `YOLO`**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 [Detection Engine](https://github.com/Uszkido/detection)
-**Advanced Object Detection Suite**
+### 🛰️ [Sentinel-X](https://github.com/Vexel-Innovations/Sentinel-X)
+**Autonomous Multimodal Intelligence**
 
-Cutting-edge computer vision pipelines for real-time object and threat detection across multiple sensor modalities.
+Full-stack C4ISR intelligence platform with 3D digital twins, drone swarm orchestration, acoustic triangulation, and AI-powered threat detection.
 
-**`Python` `CV` `Deep Learning`**
+**`Python` `FastAPI` `CesiumJS` `YOLOv8`**
 
 </td>
 </tr>
@@ -125,19 +130,19 @@ Cutting-edge computer vision pipelines for real-time object and threat detection
 <td width="33%">
 
 ### 🔍 [Anomaly Detection](https://github.com/Uszkido/anomaly-detection-resources)
-Curated resources for advanced anomaly detection in security and defense applications.
+Curated resources for advanced anomaly detection in security and enterprise systems.
 
 </td>
 <td width="33%">
 
 ### 👁️ [Computer Vision](https://github.com/Uszkido/Computervisionprojects)
-Production CV projects spanning object detection, segmentation, and visual intelligence.
+Production CV pipelines spanning object detection, segmentation, and visual intelligence.
 
 </td>
 <td width="33%">
 
 ### 🤖 [ML Engineering](https://github.com/Uszkido/machine-learning-for-software-engineers)
-Enterprise machine learning patterns for scalable, production-ready AI systems.
+Enterprise machine learning patterns for scalable, production-ready AI models.
 
 </td>
 </tr>
@@ -167,7 +172,7 @@ Pioneering NLP resources for the Hausa language — advancing African language A
 
 ## 🕌 `CULTURAL TECHNOLOGY DIVISION`
 
-Building technology that serves communities and preserves heritage.
+Building high-availability digital solutions that preserve heritage and empower global communities.
 
 <table>
 <tr>
@@ -200,54 +205,23 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
-## 🤖 `DEVELOPER TOOLS & INFRASTRUCTURE`
+## 🛠️ `ENGINEERING & CLIENT SERVICES`
 
-<table>
-<tr>
-<td width="33%">
+**Vexel Innovations** partners with enterprises, ISPs, startups, and government agencies to engineer custom mission-critical technology solutions:
 
-### 🧰 [Software Agent SDK](https://github.com/Uszkido/software-agent-sdk)
-SDK for building autonomous software agents.
-
-</td>
-<td width="33%">
-
-### 💡 [LiteLLM](https://github.com/Uszkido/litellm)
-Lightweight LLM gateway for multi-provider AI orchestration.
-
-</td>
-<td width="33%">
-
-### 📓 [Marimo](https://github.com/Uszkido/marimo)
-Next-gen reactive notebooks for AI experimentation.
-
-</td>
-</tr>
-<tr>
-<td width="33%">
-
-### 🎯 [Goal-Task Prompt](https://github.com/Uszkido/goal-task-prompt)
-Advanced prompt engineering frameworks for agentic AI.
-
-</td>
-<td width="33%">
-
-### 🌐 [Web3 DApp](https://github.com/Uszkido/netlify-alchemy-dapp-boilerplates)
-Decentralized application boilerplates for blockchain integration.
-
-</td>
-<td width="33%">
-
-### 🍕 [Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)
-Elegant real-time analytics dashboard demo.
-
-</td>
-</tr>
-</table>
+```
+ ┌────────────────────────┐  ┌────────────────────────┐  ┌────────────────────────┐
+ │ 🤖 AI & CV SOLUTIONS   │  │ 📡 ISP & NETWORK AUTOM │  │ 📱 MOBILE & WEB ENG    │
+ │                        │  │                        │  │                        │
+ │ Custom YOLO Models     │  │ RouterOS & REST APIs   │  │ Flutter & React Native │
+ │ Defect Inspection      │  │ Hotspot & Vouchers     │  │ Next.js Platforms      │
+ │ Video Analytics        │  │ WireGuard VPN Tunnels  │  │ Enterprise Databases   │
+ └────────────────────────┘  └────────────────────────┘  └────────────────────────┘
+```
 
 ---
 
-## ⚙️ `CORE CAPABILITIES`
+## ⚙️ `CORE ARCHITECTURE ENGINE`
 
 ```
  ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
@@ -270,44 +244,31 @@ Elegant real-time analytics dashboard demo.
 
 ---
 
-## 🏗️ `TECH STACK`
+## 🏗️ `TECHNOLOGY MATRIX`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=flat-square&logo=cesium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=yolo&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flutter,dart,react,nextjs,typescript,nodejs,express,postgres,mongodb,sqlite,prisma,docker,git,github,githubactions,linux,vercel,bash&perline=11" />
+</p>
 
 </div>
 
 ---
 
-## 🤝 `JOIN THE MISSION`
+## 🤝 `WORK WITH VEXEL INNOVATIONS`
 
-We're not hiring employees. **We're recruiting visionaries.**
-
-Whether you're an AI researcher pushing the boundaries of computer vision, a GIS engineer mapping the unseen, or a systems architect who thinks in distributed networks — **there's a seat at our table.**
+We collaborate with forward-thinking organizations, founders, and engineers to build extraordinary products.
 
 <div align="center">
 
-| 📖 [Contributing](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CONTRIBUTING.md) | 🛡️ [Security](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/SECURITY.md) | 📜 [Code of Conduct](https://github.com/Vexel-Innovations/Sentinel-X/blob/main/CODE_OF_CONDUCT.md) |
+| 🌐 Website | 📧 Email | 📱 Direct Line |
 | :---: | :---: | :---: |
+| [vexel-innovations.vercel.app](https://vexel-innovations.vercel.app/) | [Vexelvision@gmail.com](mailto:Vexelvision@gmail.com) | [+234(0)7038953065](tel:+2347038953065) |
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
