@@ -309,6 +309,66 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## 👥 `LEADERSHIP & ENGINEERING TEAM`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/Uszkido">
+    <img src="https://github.com/Uszkido.png" width="100" style="border-radius:50%"/>
+    <br/>
+    <sub><b>Usama Ado Shehu</b></sub>
+  </a>
+  <br/>
+  <b>Founder & Principal Software Engineer</b>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Computer_Vision-00F5FF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Role-Lead_Architect-6E40C9?style=flat-square"/>
+  </p>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/Vexel-Innovations">
+    <img src="vexel_logo_blended.png" width="100" style="border-radius:50%"/>
+    <br/>
+    <sub><b>Vexel Innovations Core Engine</b></sub>
+  </a>
+  <br/>
+  <b>Autonomous Engineering Collective</b>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-ISP_%26_Agritech_Infrastructure-00C853?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Status-OPERATIONAL-00FF88?style=flat-square"/>
+  </p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛡️ `ENTERPRISE SECURITY & COMPLIANCE`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-YARA_%26_Snort_Signatures-red?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Encryption-WireGuard_AES--256-blue?style=for-the-badge&logo=wireguard" />
+  <img src="https://img.shields.io/badge/SLA_Target-99.9%25_Uptime-00C853?style=for-the-badge&logo=statuspage" />
+  <img src="https://img.shields.io/badge/Data_Sovereignty-Air--Gapped_Compatible-orange?style=for-the-badge&logo=serverless" />
+</p>
+
+---
+
+## 🌐 `OPEN SOURCE & SECURITY POLICY`
+
+- 🤝 **Contributions:** We welcome pull requests across all Vexel open-source modules. Please review our repository standards before submitting.
+- 🔒 **Security Disclosure:** Found a vulnerability? Report directly to `Vexelvision@gmail.com` for PGP-encrypted security response.
+- 📜 **Licensing:** Core frameworks are dual-licensed under **MIT** and **Apache 2.0**.
+
+---
+
 ## 🤝 `WORK WITH VEXEL INNOVATIONS`
 
 We collaborate with forward-thinking organizations, founders, and engineers to build extraordinary products.
