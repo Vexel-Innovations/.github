@@ -301,6 +301,28 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## 📈 `ORGANIZATION 3D CONTRIBUTION CALENDAR`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/profile-green-animate.svg"/>
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/profile-night-rainbow.svg"/>
+  </picture>
+</p>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Vexel-Innovations/.github/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 🤝 `WORK WITH VEXEL INNOVATIONS`
 
 We collaborate with forward-thinking organizations, founders, and engineers to build extraordinary products.
