@@ -361,6 +361,44 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## 📡 `SUPPORTED HARDWARE & PROTOCOLS MATRIX`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 Networking & Router Hardware
+- **MikroTik RouterOS:** RouterOS API v6/v7, WinBox, Hotspot Engine & User Manager
+- **Ruijie / Reyee:** Ruijie Cloud Open API, e-Gateway & Hardware Access Points
+- **OpenWrt & UniFi:** LuCI REST APIs, SSH CLI Automation & UniFi Network Controller
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Edge AI & Sensor Hardware
+- **NVIDIA Jetson:** Jetson Nano, Xavier NX & Orin Edge AI Acceleration
+- **Industrial Cameras:** RTSP IP Cameras, USB Video Class (UVC) & Optical Conveyor Sensors
+- **Embedded & IoT:** Raspberry Pi 4/5, ESP32 Microcontrollers & Bluetooth ESC/POS Thermal Printers
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 `REGIONAL IMPACT & DEPLOYMENT ECOSYSTEM`
+
+```
+  ┌───────────────────────────┐     ┌───────────────────────────┐     ┌───────────────────────────┐
+  │ 📡 ISP & INTERNET ACCESS  │ ──> │ 🌾 AGRI-TECH SOVEREIGNTY  │ ──> │ 🛡️ DECENTRALIZED SECURITY  │
+  │                           │     │                           │     │                           │
+  │ Micro-Hotspots & Vouchers │     │ Transparent Harvest Passes│     │ IMEI Theft Defense        │
+  │ Community Connectivity    │     │ Direct Farmer Marketplace │     │ Digital Asset Certificates│
+  └───────────────────────────┘     └───────────────────────────┘     └───────────────────────────┘
+```
+
+---
+
 ## 🌐 `OPEN SOURCE & SECURITY POLICY`
 
 - 🤝 **Contributions:** We welcome pull requests across all Vexel open-source modules. Please review our repository standards before submitting.
