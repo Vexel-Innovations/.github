@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://github.com/Vexel-Innovations">
-  <img src="https://github.com/Vexel-Innovations.png" alt="Vexel Innovations Logo" width="160" style="border-radius: 20px; box-shadow: 0px 4px 20px rgba(0,245,255,0.3);"/>
+  <img src="vexel_logo_blended.png" alt="Vexel Innovations" width="180"/>
 </a>
 
 <br/>
