@@ -401,6 +401,56 @@ Unified collection of Islamic scholarly APIs.
 
 ---
 
+## ⚡ `DEVELOPER QUICKSTART & CLI SETUP`
+
+Get started locally with Vexel Innovations open-source ecosystem in under 2 minutes:
+
+```bash
+# 1. Clone Vexel Innovations flagship ecosystem
+git clone https://github.com/Vexel-Innovations/WireSpot.git
+cd WireSpot
+
+# 2. Launch edge router simulation & micro-hotspot gateway
+docker-compose up -d --build
+
+# 3. Access local router gateway & thermal ticket rendering engine
+open http://localhost:8080/dashboard
+```
+
+---
+
+## 🗂️ `CORE MODULE REPOSITORIES INDEX`
+
+<div align="center">
+
+| Module | Category | Primary Stack | Operational Status |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[WireSpot](https://github.com/Vexel-Innovations)** | ISP Hotspot Gateway | Flutter / Go / RouterOS API | `STABLE` |
+| 🛡️ **[PTS](https://github.com/Vexel-Innovations)** | IMEI Theft Defense | Node.js / PostgreSQL / YARA | `STABLE` |
+| 🌾 **[Kido Farms](https://github.com/Vexel-Innovations)** | Agritech Platform | React / Python FastAPI / SQLite | `ACTIVE` |
+| 🌽 **[CornVision™](https://github.com/Vexel-Innovations)** | Crop AI Inspection | YOLOv8 / PyTorch / OpenCV | `ACTIVE` |
+| 🍕 **[Smooth Pizza Counter](https://github.com/Vexel-Innovations)** | Smart POS System | Flutter Desktop / ESC-POS / Dart | `PRODUCTION` |
+| 🛡️ **[Sentinel-X](https://github.com/Vexel-Innovations)** | Network Intrusion Mesh | WireGuard / C++ / Rust | `BETA` |
+
+</div>
+
+---
+
+## 💎 `ENTERPRISE PARTNERSHIPS & SPONSORSHIPS`
+
+We actively partner with commercial ISPs, agricultural cooperatives, hardware vendors, and technology venture funds.
+
+<p align="center">
+  <a href="mailto:Vexelvision@gmail.com">
+    <img src="https://img.shields.io/badge/Sponsor_Vexel-Support_Open_Innovation-FF69B4?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+  </a>
+  <a href="https://vexel-innovations.vercel.app/">
+    <img src="https://img.shields.io/badge/Enterprise_Inquiries-Schedule_Call-00F5FF?style=for-the-badge&logo=googlemeet&logoColor=black"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 `OPEN SOURCE & SECURITY POLICY`
 
 - 🤝 **Contributions:** We welcome pull requests across all Vexel open-source modules. Please review our repository standards before submitting.
