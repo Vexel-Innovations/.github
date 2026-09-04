@@ -311,6 +311,7 @@ Unified collection of Islamic scholarly APIs.
 
 ## 👥 `LEADERSHIP & ENGINEERING TEAM`
 
+<!--START_SECTION:members-->
 <div align="center">
 
 <table>
@@ -347,6 +348,7 @@ Unified collection of Islamic scholarly APIs.
 </table>
 
 </div>
+<!--END_SECTION:members-->
 
 ---
 
