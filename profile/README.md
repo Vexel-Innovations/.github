@@ -304,8 +304,12 @@ Unified collection of Islamic scholarly APIs.
 ## 📊 `ORGANIZATION ANALYTICS`
 
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=Vexel-Innovations&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Vexel-Innovations&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vexel-Innovations&theme=github-dark&hide_border=true&area=true" width="100%" alt="Vexel Innovations 2D Activity Graph"/>
+</p>
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=Vexel-Innovations&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Vexel-Innovations&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
