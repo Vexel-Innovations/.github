@@ -1,5 +1,14 @@
 <div align="center">
 
+<br/>
+
+<a href="https://github.com/Vexel-Innovations">
+  <img src="https://github.com/Vexel-Innovations.png" alt="Vexel Innovations Logo" width="160" style="border-radius: 20px; box-shadow: 0px 4px 20px rgba(0,245,255,0.3);"/>
+</a>
+
+<br/>
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:00F5FF,100:6E40C9&height=200&section=header&text=VEXEL%20INNOVATIONS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
 ### ⚡ WE DON'T PREDICT THE FUTURE. WE BUILD IT. ⚡
