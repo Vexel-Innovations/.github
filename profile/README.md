@@ -304,26 +304,8 @@ Unified collection of Islamic scholarly APIs.
 ## 📈 `VEXEL INNOVATIONS ACTIVITY & CONTRIBUTIONS`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-view.svg" alt="Vexel Innovations Activity Graph" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-view.svg" alt="Vexel Innovations 2D Activity Graph" width="100%"/>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-rainbow.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-green-animate.svg"/>
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-rainbow.svg"/>
-  </picture>
-</p>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
 
 ---
 
